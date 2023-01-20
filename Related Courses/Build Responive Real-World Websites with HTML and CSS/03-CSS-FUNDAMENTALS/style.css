@@ -16,15 +16,15 @@ body {
 .container {
   width: 800px;
   /*margin-left: auto;
-  margin-right: auto; */
+    margin-right: auto; */
   margin: 0 auto;
 }
 
 .main-header {
   background-color: #f7f7f7;
   /* padding: 20px;
-  padding-left: 40px;
-  padding-right: 40px; */
+    padding-left: 40px;
+    padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
   /*height: 80px; */
@@ -47,7 +47,7 @@ aside {
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
   /* padding-top: 50px;
-  padding-bottom: 50px; */
+    padding-bottom: 50px; */
   padding: 50px 0;
   width: 500px;
 }
@@ -105,12 +105,12 @@ li:last-child {
 }
 
 /*footer p {
-  font-size: 16px;
-}*/
+    font-size: 16px;
+  }*/
 
 /*article header p {
-  font-style: italic;
-}*/
+    font-style: italic;
+  }*/
 
 #author {
   font-style: italic;
@@ -127,8 +127,8 @@ li:last-child {
 }
 
 /*ul {
-  list-style: none;
-}*/
+    list-style: none;
+  }*/
 
 .related {
   list-style: none;
@@ -139,8 +139,8 @@ body {
 }
 
 /*.first-li {
-  font-weight: bold;
-}*/
+    font-weight: bold;
+  }*/
 
 li:first-child {
   font-weight: bold;
@@ -155,10 +155,9 @@ li:nth-child(3) {
 }
 
 /*article p:last-child {
-  color: red;
-}/*
-
-/* Styling links */
+    color: red;
+  }/*
+  /* Styling links */
 
 a:link {
   color: #1098ad;
@@ -189,11 +188,10 @@ a:active {
 
 nav a:link {
   /*
-  background-color: orangered;
-  margin: 20px;
-  padding: 20px;
-
-  display: block; */
+    background-color: orangered;
+    margin: 20px;
+    padding: 20px;
+    display: block; */
   margin-right: 30px;
   margin-top: 10px;
   display: inline-block;
@@ -210,29 +208,26 @@ button {
 
   position: absolute;
   /*  bottom: 50px;
-  left: 50px; */
+    left: 50px; */
   bottom: 50px;
   right: 50px;
 }
 
 /* Resolving conflicts */
 /*#copyright {
-  color: red;
-}
-
-.copyright {
-  color: blue;
-}
-
-.text {
-  color: yellow;
-}
-
-footer p {
-  color: green !important;
-} */
+    color: red;
+  }
+  .copyright {
+    color: blue;
+  }
+  .text {
+    color: yellow;
+  }
+  footer p {
+    color: green !important;
+  } */
 /*
-nav a:link {
-  font-size: 18px;
-}
-*/
+  nav a:link {
+    font-size: 18px;
+  }
+  */
