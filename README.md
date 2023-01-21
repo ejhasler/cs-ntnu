@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
-1. [Coding Courses](#coding-courses)
-2. [Assigments](#assignments)
-3. [Notes](#notes)
+1. [Related Courses](#related-courses)
+2. [WebTech Assigments](#webtech-assignments)
+3. [WebTech Notes](#webtech-notes)
 
-## Coding Courses
+## Related Courses
 
 This folder contains the coding courses that cover the basics of web development, including HTML, CSS, JavaScript and some frameworks.
 
-## Assignments
+## WebTech Assignments
 
 This folder contains the assignments for the web technologies course. Each assignment includes a prompt and instructions for completion.
 
-## Notes
+## WebTech Notes
 
 This folder contains notes from class for the web technologies course. The notes cover the key concepts and techniques discussed in class and can be used as a reference for studying and reviewing the material.
