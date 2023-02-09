@@ -4,9 +4,18 @@
 
 ### Table of Content
 
-1. [Web Technologies](#web-technologies)
-2. [Application Development](#application-development)
-3. [Operating Systems with System Programming](#operating-systems-with-system-programming)
+1. [Programming 1](#programming-1)
+2. [Programming 2](#programming-2)
+3. [Mathematical methods 2 for Computer engineering](#mathematical-methods-2-for-computer-engineering)
+4. [Algorithms and Data Structure](#algorithms-and-data-structure)
+5. [Computer Communication and Network programming](#computer-communication-and-network-programming)
+6. [Data Modeling and Database Applications](#data-modeling-and-database-applications)
+7. [Statistics](#statistics)
+8. [Web Technologies](#web-technologies)
+9. [Application Development](#application-development)
+10. [Operating Systems with System Programming](#operating-systems-with-system-programming)
+11. [Physics](#physics)
+
 
 ## Web Technologies
 
@@ -43,7 +52,7 @@ Building modern and scalable full stack application using the power of Spring Bo
 * React Hooks, props, stats, and more to create the frond-end part
 * Advanced React and third-party components
 
-Go to the README.me file for the more information about this project.
+Go to the [README.me](https://github.com/ejhasler/cs-ntnu/blob/main/idata2306AppDev/full-stack-development-with-springboot-and-react/README.md) file for the more information about this project.
 
 ## Operating Systems with System Programming
 
@@ -52,6 +61,12 @@ This part would be mainly working on operating system kernel, processes, threads
 Content:
 * Assignments
 * Self Studies
+
+## Physics
+
+### Assignments
+
+### Self Studies
 
 
 
