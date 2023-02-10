@@ -17,6 +17,34 @@
 11. [Physics](#physics)
 
 
+## Programming 1
+
+info comin soon...
+
+## Programming 2
+
+info comin soon...
+
+## Mathematical methods 2 for Computer engineering
+
+info comin soon...
+
+## Algorithms and Data Structures
+
+info comin...
+
+## Computer communication and Network programming
+
+info comin...
+
+## Data Modeling and Database Applications
+
+info comin soon...
+
+## Statistics
+
+info comin soon..
+
 ## Web Technologies
 
 Subject concerned with Frontend development - website programming. The assignments will be working with HTML, CSS, JavaScript and React and the self studies will be mainly extra courses.
