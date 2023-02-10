@@ -39,13 +39,13 @@ Content:
 
 ### <div align="center"> Self studies </div>
 
-### *Building Responsive Real-World Websites with HTML and CSS*
+#### Building Responsive Real-World Websites with HTML and CSS
 
 Working with modern HTML5, CSS3 and web design by building websites for getting an deeper understanding of front-end programming.
 
 Go to the [README.me]() file for more information about the work/project.
 
-### *JavaScript: Understadning fundamentals and building my own framework.*
+#### JavaScript: Understadning fundamentals and building my own framework
 
 Working with basics like types and operators, object and function, etc. Also going to dive in on TypeScript, ES6, and Transpiled Languages.
 
