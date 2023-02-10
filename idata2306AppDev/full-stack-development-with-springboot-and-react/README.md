@@ -151,7 +151,15 @@ Contains:
 
 **What are ORM, JPA, and Hibernate?**
 
+**Object Relational Mapping (ORM)** is a technique that allow us to fetch from and manipulate a database by using object-oriented programming paradigm. ORM is really good for programmers because it relies on object-oriented concepts rather than database structures. It also makes development much faster and reduces the amount of sourde code. ORM is mostly independent of databases, and developers don't have to worry about vendor-specific SQL statements.
+
+** Java Persistent API (JPA)** provides object-relational mapping for Java developers. The JPA entity is a Java class that presents the structure of a database table. The fields of an entity class present columns of the database tables.
+
+**Hibernate** is the most popular Java-based JPA implementation and is used in Spring Boot by default. Hibernate is a mature product and is widely used in large-scale applications. 
+
 **How can you create an entity class?**
+
+An **entity** class is a simple Java class that is annotated with JPA's @Entity annotation. Entity classes use the standard javaBean naming convention and have proper getter and setter methods. To create an entity class in Spring Boot, you must create a package for entites.
 
 **How can you create a CRUDRepository?**
 
