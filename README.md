@@ -1,6 +1,6 @@
 # <div align="center"> Computer Science NTNU </div>
 
-<div align="center"> Repository for Computer Science subjects at NTNU containing assignments and relevant work. </div>
+<div align="center"> Repository for Computer Science courses at NTNU containing assignments and relevant work. </div>
 
 ### Table of Content
 
