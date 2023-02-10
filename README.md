@@ -150,7 +150,7 @@ Content:
 
 ### <div align="center"> Assignments </div>
 
-[Week 5](/)
+[Week 5](https://github.com/ejhasler/cs-ntnu/tree/main/idata2305OperativSys/multithreader-client-server-app/demo) - (OS Assignment 1 - Single threaded and multithreaded processes)
 
 <div align="center"> Self Studies </div>
 
