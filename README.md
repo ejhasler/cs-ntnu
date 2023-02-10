@@ -21,29 +21,43 @@
 
 info comin soon...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Programming 2
 
 info comin soon...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Mathematical methods 2 for Computer engineering
 
 info comin soon...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Algorithms and Data Structures
 
 info comin...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Computer communication and Network programming
 
 info comin...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Data Modeling and Database Applications
 
 info comin soon...
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Statistics
 
 info comin soon..
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Web Technologies
 
@@ -78,6 +92,8 @@ Go to the [README.me]() file for more information about the work/project.
 Working with basics like types and operators, object and function, etc. Also going to dive in on TypeScript, ES6, and Transpiled Languages.
 
 Go to the [README.me]() file for more information about the work/project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Application Development
 
@@ -122,6 +138,8 @@ Building modern and scalable full stack application using the power of Spring Bo
 
 Go to the [README.me](https://github.com/ejhasler/cs-ntnu/blob/main/idata2306AppDev/full-stack-development-with-springboot-and-react/README.md) file for more information about this project.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Operating Systems with System Programming
 
 This part would be mainly working on operating system kernel, processes, threads, synchronization, time-sharing, memory management, file systems, I/O, deadlock management, multi-processor systems and security. The assignments will be linked to the right folder under here for each week and self studies will mainly contain extra work.
@@ -136,11 +154,15 @@ Content:
 
 <div align="center"> Self Studies </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Physics
 
 ### <div align="center"> Assignments </div>
 
 ### <div align="center"> Self Studies </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
