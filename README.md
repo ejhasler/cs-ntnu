@@ -25,11 +25,31 @@ Content:
 * Assigments
 * Self studies
 
-### Assignments
+### <div align="center"> Assignments </div>
 
-Coming soon
+[Week 2](/)
 
-[Week 1](/)
+[Week 3](/)
+
+[Week 4](/)
+
+[Week 5](/)
+
+[Week 6](/)
+
+### <div align="center"> Self studies </div>
+
+### *Building Responsive Real-World Websites with HTML and CSS*
+
+Working with modern HTML5, CSS3 and web design by building websites for getting an deeper understanding of front-end programming.
+
+Go to the [README.me]() file for more information about the work/project.
+
+### *JavaScript: Understadning fundamentals and building my own framework.*
+
+Working with basics like types and operators, object and function, etc. Also going to dive in on TypeScript, ES6, and Transpiled Languages.
+
+Go to the [README.me]() file for more information about the work/project.
 
 ## Application Development
 
@@ -39,7 +59,27 @@ Content:
 * Assignments
 * Self Studies
 
-### Self Studies
+### <div align="center"> Assignment </div>
+
+[Week 2](/)
+
+[Week 3](/)
+
+[Week 4](/)
+
+[Week 5](/)
+
+[Week 6](/)
+
+### <div align="center"> Self Studies </div>
+
+#### Docker Masery: with Kubernetes + Swarm
+
+Building, testing and deploying containers with Docker, Kubernetes, Compose, Swarm and Registry using DevOps.
+
+Go to the [README.me]() file for more information about this work/project.
+
+Work will contain:
 
 #### *Full Stack Development with Spring Boot and React*
 
@@ -52,7 +92,7 @@ Building modern and scalable full stack application using the power of Spring Bo
 * React Hooks, props, stats, and more to create the frond-end part
 * Advanced React and third-party components
 
-Go to the [README.me](https://github.com/ejhasler/cs-ntnu/blob/main/idata2306AppDev/full-stack-development-with-springboot-and-react/README.md) file for the more information about this project.
+Go to the [README.me](https://github.com/ejhasler/cs-ntnu/blob/main/idata2306AppDev/full-stack-development-with-springboot-and-react/README.md) file for more information about this project.
 
 ## Operating Systems with System Programming
 
@@ -62,11 +102,17 @@ Content:
 * Assignments
 * Self Studies
 
+### <div align="center"> Assignments </div>
+
+[Week 5](/)
+
+<div align="center"> Self Studies </div>
+
 ## Physics
 
-### Assignments
+### <div align="center"> Assignments </div>
 
-### Self Studies
+### <div align="center"> Self Studies </div>
 
 
 
