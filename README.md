@@ -41,7 +41,7 @@ Content:
 
 ### Self Studies
 
-#### *Full Stack Development with Spring Boot and React
+#### *Full Stack Development with Spring Boot and React*
 
 Building modern and scalable full stack application using the power of Spring Boot and React using the book published from Packt.
 
