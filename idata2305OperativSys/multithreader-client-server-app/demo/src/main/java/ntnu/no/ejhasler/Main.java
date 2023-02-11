@@ -1,23 +1,20 @@
 package ntnu.no.ejhasler;
 
+import ntnu.no.ejhasler.servers.*;
 /**
- * Hello world!
- *
+ * Main class of the application.
  */
-public class Main 
-{
-    private static boolean singleThreaded = true;
+public class Main {
 
-    private static int serverPort = 8080;
+    private static boolean singleThread = true;
 
-    /**
-     * 
-     * @param args
-     */
-    public static void main(String[] args )
-    {
-        System.out.println("\n");
-        if (singleThreaded) new SingleThreadedServer(serverPort).run();
-        else new MultiThreadedServer(serverPort).run(); 
+    private static int port = 8080;
+    public static void main(String[] args) {
+        System.out.println("Starting server");
+
+        if (singleThread) new SingleThreadedServer(port).run();
+        else new MultiThreadedServer(port).run();
     }
+
+
 }

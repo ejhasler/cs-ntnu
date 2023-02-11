@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ntnu.no.ejhasler</groupId>
-  <artifactId>demo</artifactId>
+  <artifactId>assignment1</artifactId>
   <version>1.0</version>
 
-  <name>demo</name>
+  <name>assignment1</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
