@@ -1,4 +1,4 @@
-# <div align="center"> OS Assignment 1 - Multithreader Client Server App </div>
+# <div align="center"> OS Assignment 1 - IDATA2305</div>
 
 ## Table of Content:
 1. [About the assignment](#about-the-assignment)
