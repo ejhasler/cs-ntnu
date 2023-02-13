@@ -97,6 +97,12 @@ Working with basics like types and operators, object and function, etc. Also goi
 
 Go to the [README.me]() file for more information about the work/project.
 
+#### Learning Web Design
+
+Working with the basics of HTML, CSS, JavaScript, and Web Graphics.
+
+Go to the [README.me]() file for more information about the work
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Application Development - IDATA 2306
