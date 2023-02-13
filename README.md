@@ -75,11 +75,11 @@ Content:
 
 [Week - 02 exercises for IDATA 2305 Web Technologies](https://github.com/ejhasler/cs-ntnu/tree/main/idata2301WebTech/webtech-assignments/week-2)
 
-[Week - 03 exercises for IDATA 2305 Web Technologies](/)
+[~~Week - 03 exercises for IDATA 2305 Web Technologies (NO CODING)~~]
 
-[Week - 04 exercises for IDATA 2305 Web Technologies](/)
+[Week - 04 exercises for IDATA 2305 Web Technologies](https://github.com/ejhasler/cs-ntnu/tree/main/idata2301WebTech/webtech-assignments/week-04)
 
-[Week - 05 exercises for IDATA 2305 Web Technologies](/)
+[~~Week - 05 exercises for IDATA 2305 Web Technologies (NO CODING)~~]
 
 [Week - 06 exercises for IDATA 2305 Web Technologies](/)
 
