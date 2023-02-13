@@ -73,15 +73,15 @@ Content:
 
 ### <div align="center"> Assignments </div>
 
-[Week 2](/)
+[Week - 02 exercises for IDATA 2305 Web Technologies](https://github.com/ejhasler/cs-ntnu/tree/main/idata2301WebTech/webtech-assignments/week-2)
 
-[Week 3](/)
+[Week - 03 exercises for IDATA 2305 Web Technologies](/)
 
-[Week 4](/)
+[Week - 04 exercises for IDATA 2305 Web Technologies](/)
 
-[Week 5](/)
+[Week - 05 exercises for IDATA 2305 Web Technologies](/)
 
-[Week 6](/)
+[Week - 06 exercises for IDATA 2305 Web Technologies](/)
 
 ### <div align="center"> Self studies </div>
 
