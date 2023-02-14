@@ -101,7 +101,7 @@ Go to the [README.me]() file for more information about the work/project.
 
 Working with the basics of HTML, CSS, JavaScript, and Web Graphics.
 
-Go to the [README.me]() file for more information about the work
+Go to the [README.me](https://github.com/ejhasler/cs-ntnu/tree/main/idata2301WebTech/self-studies/learning-web-design) file for more information about the work
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
