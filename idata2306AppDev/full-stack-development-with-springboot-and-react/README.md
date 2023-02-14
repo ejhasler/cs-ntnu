@@ -163,10 +163,23 @@ An **entity** class is a simple Java class that is annotated with JPA's @Entity 
 
 **How can you create a CRUDRepository?**
 
+The Spring Boot Data JPA provides a CrudRepository interface for **Create, Read, Update** and **Delete (CRUD)** operations. It provides CRUD functionalities our entity class. 
+
 **What does CrudRepository provide for your application?**
+
+It proides CRUD functionalities our entity class.
 
 **How can you create a one-to-many relationship between tables?**
 
-**How can you add demo data to a database with Spring Boot?**
+The one to many relationship can be added by using the @ManyToOne and @OneToMany annotations. In the car entity class, which contains a foregin key, you must define the relationship with the @ManyToOne annotation. You should also add the getter and setter for the owner field. It is recomended that you use **FecthType.LAZY** for associations. For the toMany relationships, that is the default value, but for toOne relationships, you should define it. **FetchType EAGER or LAZY. In our case, the lazy strategy means that when the owner is fetched from the database, all the cars associated with the owner will be fetched when needed.
 
-**How can you connect your Spring Boot application to MariaDB?**
+### Creating a RESTful Web Service with Spring Boot
+
+Creatin a **RESTful web service** using the controller class. And using **Spring Data REST** for creating a RESTful web service that also provides all CRUD functionalities automatically. 
+
+Contains:
+* Basics of a RESTful web service
+* Creating a RESTful web service with Spring Boot
+* Using Spring Data REST
+
+
