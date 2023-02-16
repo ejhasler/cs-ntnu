@@ -13,5 +13,6 @@ import org.springframework.data.repository.CrudRepository;
  * @author Even Johan Pereira Haslerud
  * @version 14.02.2023
  */
+@RepositoryRestResource(path="vehicles")
 public interface CarRepository extends CrudRepository<Car, Long> {
 }
