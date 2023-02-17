@@ -1,30 +1,32 @@
-# Learnign Python
+# Python
 
-## Table Of Content:
+## Table of Content:
 
-### What is Python ?
+1. [Grunnleggende Python-programmering](#grunnleggende-python-programmering)
+   1. [Innledning](#innledning)
+   2. [Programmeringsmiljøer for Python](#programmeringsmiljøer-for-python)
+   3. [Variabler og datatyper](#variabler-og-datatyper)
+   4. [Plotting med Matplotlib](#plotting-med-matplotlib)
+   5. [Programmering av funksjoner](#programmering-av-funksjoner)
+   6. [Testing av egen kode](#testing-av-egen-kode)
+   7. [Betingede programløp med if-strukturer](#betingende-programløp-med-if-strukturer)
+   8. [Itererte programløp med for- og while-løkker](#itererte-programløp-med-for-og-while-løkker)
+   9. [Lese og skrive fildata](#lese-og-skrive-fildata)
+   10. [Databehandling med Pandas](#databehandling-med-pandas)
+   11. [Symbolske beregninger med Sympy](#symbolske-beregninger-med-sympy)
+   12. [Objektorientert programmering](#objektorientert-programmering)
+2. [Anvendelser av Python-programmering](#anvendelser-av-python-programmering)
 
-Python is a popular programming langauge. It was create by Guido van Rossum, and released in 1991.
+   1. [Numerisk derivasjon og integrasjon](#numerisk-derivasjon-og-integrasjon)
+   2. [Løsning av likninger](#løsning-av-likninger)
+   3. [Simulering av dynamiske systemer](#simulering-av-dynamiske-systemer)
+   4. [Optimering](#optimering)
+   5. [Modelltilpassing](#modelltilpassing)
+   6. [Statistikk og sannsynlighetsregning](#statistikk-og-sannsynlighetsregning)
+   7. [Signalfiltering](#signalfiltering)
+   8. [Automatisk regulering](#automatisk-regulering)
+   9. [Programmering av praktisk utstyr](#programmering-av-praktisk-utstyr)
 
-It is used for:
+   ## Grunnleggende Python-programmering
 
-- web development (server-side)
-- software development
-- mathematics
-- system scripting
-
-#### What can Python do?
-
-- Python can be used on a server to create web applications
-- Python can be used alongside software to create workflows
-- Python can connect to database systems. It can also read and modify files.
-- Python can be used to handle big data and peform complex mathematics.
-- Python can be used for rapid prototyping, or for production-ready software development.
-
-#### Why Python ?
-
-- Python works on different platforms (Windows, Mac, Linux, Raspberry Pi)
-- Python has a simple syntax similar to the English language
-- Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
-- Python runs on a interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
-- Python can be treated on a procedural way, an object-oriented way or a functional way.
+   ### Innledning
