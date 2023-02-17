@@ -32,3 +32,69 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+
+# Global Variables
+x = "awesome"
+
+def myFunc():
+    print("Python is " + x)
+
+myFunc()
+
+print("Python is " + x)
+
+# The global Keyword
+def myFunc():
+    global x
+    x = "fantastic"
+
+myFunc()
+
+print("Python is " + x)
+
+# Python numbers
+x = 1       # int
+y = 2.8     # float
+z = 1j      # complex
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+# Convert from one type to another
+# ------------------------------
+x = 1
+y = 2.8
+z = 1j
+
+# Convert from int to float:
+a = float(x)
+
+# Convert from float to int:
+b = int(y)
+
+# Convert from int to complex
+c = complex(x)
+
+# String are Arrays
+a = "Hello World!"
+print(a[1])
+
+# Looping Through a String
+for x in "banana":
+    print(x)
+
+# String length
+a = "Hello World"
+print(len(a))
+
+# Check String
+txt = "The best things in life are free!"
+if "free" in txt:
+    print("Yes, 'free' is present.")
+
+# Check if not
+txt = "The best things in life are free!"
+print("expensive" not in txt)
+
+
