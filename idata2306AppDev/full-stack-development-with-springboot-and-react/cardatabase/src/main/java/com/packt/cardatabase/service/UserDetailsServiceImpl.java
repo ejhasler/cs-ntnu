@@ -13,6 +13,12 @@ import com.packt.cardatabase.domain.User;
 
 import com.packt.cardatabase.domain.UserRepository;
 
+/**
+ * The class that implements the interface with {@code @Service}
+ * annotation. We are using UserDetailsService APIs to store,
+ * retrieve, update and delete user details. Using UserBuilder to 
+ * build the user to be added.  
+ */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService  {
 	@Autowired

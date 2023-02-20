@@ -54,6 +54,7 @@ public class CardatabaseApplication implements CommandLineRunner {
 			logger.info(car.getBrand() + " " + car.getModel());
 		}
 
+		/* Test the users to the database using the CommandLiner interface */
 		urepository.save(new User("user", 
 				"$2a$10$NVM0n8ElaRgg7zWO1CxUdei7vWoPg91Lz2aYavh9.f9q0e4bRadue","USER"));
 		urepository.save(new User("admin", 

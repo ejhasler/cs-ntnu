@@ -20,9 +20,17 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 
 import com.packt.cardatabase.service.UserDetailsServiceImpl;
 
+/**
+ * Represents an Security Config class where it wxtends to {@code WebSecurityConfigureAdapter}
+ * that makes it possible to configre {@code HttpSecurity}.
+ * 
+ * @author Even Johan Pereira Haslerud
+ * @version 20.02.2023
+ */
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
+
 	@Autowired
 	private UserDetailsServiceImpl userDetailsService;
 
@@ -60,6 +68,12 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 		return source;
 	}	
 
+	/**
+	 * Enables the users from the database. Defines a password
+	 * hashing algorithm i the method. Using bcrypt algorithm. 
+	 * @param auth
+	 * @throws Exception
+	 */
 	@Autowired
 	public void configureGlobal(AuthenticationManagerBuilder auth)
 			throws Exception  {
