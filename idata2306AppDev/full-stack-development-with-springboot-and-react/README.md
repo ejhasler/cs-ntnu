@@ -262,3 +262,26 @@ Contain:
 **How can you create unit tests with Spring Boot?**
 
 **How can you run and check the results of unit tests?**
+
+**SUMMARY FOR SPRING SECURITY**
+
+Spring Security is a Java EE framework that provides authentication, authorization and other security features for enterprise applications. Spring Security provides security services for Java-based web applications. 
+
+First include the Spring Security in our application by adding the following:
+
+```
+<dependency>
+    <gorupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-security</artifactId>
+</dependency>
+<dependency>
+    <gorupId>org.springframework.boot</groupId>
+    <artifactId>spring-security-test</artifactId>
+    <scope>test</scope>
+</dependency>
+```
+
+After this is implemented we will get an application programming interface (API) root endpoint. The *WebSecurityConfigureAdapter* is a customization that allows us to configure HttpSecurity and WebSecurity. 
+
+**Securing our backend using a JWT**
+A JWT is really small in size nd can therefore be sent in **Uniform Resource Locator (URL)**, in the POST paramter, or inside header.  
