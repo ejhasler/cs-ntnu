@@ -284,4 +284,11 @@ First include the Spring Security in our application by adding the following:
 After this is implemented we will get an application programming interface (API) root endpoint. The *WebSecurityConfigureAdapter* is a customization that allows us to configure HttpSecurity and WebSecurity. 
 
 **Securing our backend using a JWT**
-A JWT is really small in size nd can therefore be sent in **Uniform Resource Locator (URL)**, in the POST paramter, or inside header.  
+A JWT is really small in size and can therefore be sent in **Uniform Resource Locator (URL)**, in the POST paramter, or inside header. 
+
+### Setting Up the Environment and Tools - Frontend
+
+Content:
+* Installing Node.js
+* Creating and running a React.js app using create-react-app
+* Modifying the React app
