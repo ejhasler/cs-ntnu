@@ -162,6 +162,8 @@ Content:
 
 [Week 5](https://github.com/ejhasler/cs-ntnu/tree/main/idata2305OperativSys/multithreader-client-server-app/demo) - (OS Assignment 1 - Single threaded and multithreaded processes)
 
+[Week 8](https://github.com/ejhasler/cs-ntnu/tree/main/idata2305OperativSys/movie-ticket-booking-system)
+
 <div align="center"> Self Studies </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
