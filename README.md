@@ -38,8 +38,6 @@ Welcome to my README file for Computer Science. In this repository i will cover 
 
 ## Projects
 
-Throughout my Computer Science degree program, I completed several projects that helped me apply the concepts i learned in class. Here are the project I/we did during the bachelor's degree:
-
 ### Programming 1
 
 #### Warehouse Management System
