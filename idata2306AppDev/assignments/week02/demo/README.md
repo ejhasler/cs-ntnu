@@ -19,5 +19,3 @@
 
 1. Open the **Main.java** file
 2. Run the **main** method
-3. Observe the order and content of logs
-4. Make a note of the _Available tickets_ value for each user.
