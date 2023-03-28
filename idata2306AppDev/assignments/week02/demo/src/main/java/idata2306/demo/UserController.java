@@ -9,7 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * A REST API controller which responds to HTTP requests
- * for /users.
+ * for /users. Spring RestController takes care of mapping
+ * request data to the defined request handler method. Once
+ * response body is generated from the handler method, it
+ * converts it to JSON or XML response.
  * 
  * @author  Even Johan Pereira Haslerud
  * @version 23.03.2023
