@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,MAAM,IAAY,EAAE,GAAW;IACtC,OAAO,CAAC,WAAW,EAAE,KAAK,YAAY,EAAE,IAAI,CAAC;AAC/C","sources":["src/index.ts"],"sourcesContent":["function intro(name: string, age: number): string {\r\n  return `My name is ${name} and age is ${age}`;\r\n}\r\n"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
