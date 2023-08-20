@@ -11,6 +11,7 @@
 - [Additional Courses](#additional-courses)
 - [Getting started](#getting-started)
 - [License](#license)
+- [Authors](#authors)
 
 ## Courses
 
@@ -28,3 +29,9 @@
 ## License
 
 Distributed under the [MIT License](LICENSE).
+
+## Authors
+This repository was made by the following:
+
+* Jørgen Finsveen - Bachelors Student at NTNU Ålesund, Bachelor in Computer Engineering
+* Even Johan P. Haslerud - Bachelors Student NTNU Ålesynd, Bachelor in Computer Engineering 
