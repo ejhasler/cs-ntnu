@@ -5,6 +5,12 @@
 <br />
 <p align="center">Repository for Computer Science courses at NTNU containing assignments and relevant work.</p>
 
+<div align="center">
+  <a href="/">Go to NTNU Courses </a> •
+  <a href="https://github.com/ejhasler/cs-ntnu/tree/main/additional-courses">Go to Additional Courses</a> •
+  <a href="#license">License</a>
+</div>
+
 ## Table of contents
 
 - [Courses](#courses)
@@ -18,13 +24,14 @@
 <p>In the courses directory, you will find subdirectories for each semester. Each subdirectory contains information about the courses I took during that period. For each course, you can expect to find: </p>
 
 * Course name and code
+* Exchange courses on DTU (Danmarks Teknisk Universitet)
 * Brief description
 * Assignments and projects
 * Relevant resources and references
 
 ## Additional Courses
 
-## Getting started
+<p>In hte additional course directory, you will find subdirectories with courses that has been taken to improve our knowledge and programming skills.</p>
 
 ## License
 
