@@ -34,4 +34,4 @@ Distributed under the [MIT License](LICENSE).
 This repository was made by the following:
 
 * Jørgen Finsveen - Bachelors Student at NTNU Ålesund, Bachelor in Computer Engineering
-* Even Johan P. Haslerud - Bachelors Student NTNU Ålesynd, Bachelor in Computer Engineering 
+* Even Johan P. Haslerud - Bachelors Student NTNU Ålesund, Bachelor in Computer Engineering 
