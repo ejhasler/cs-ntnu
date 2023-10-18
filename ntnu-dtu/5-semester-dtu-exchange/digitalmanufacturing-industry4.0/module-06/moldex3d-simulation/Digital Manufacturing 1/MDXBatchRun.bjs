@@ -1,0 +1,12 @@
+Ver = 2.1
+#FilePath = "H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Digital Manufacturing 1.mrm"
+Index = 0
+Priority = 0
+Schedule = NOW
+RunID = 01
+Feature = F/P/Ct/W+CLRTMP
+NodeNum = 12
+MCM = 
+DOE = 
+StopDOEWhenFail = 0
+

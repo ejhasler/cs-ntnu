@@ -1,0 +1,10 @@
+[2023-10-18 18:43:30] lmserver = [127.0.0.1]
+[2023-10-18 18:43:30] lmport = [2556]
+[2023-10-18 18:43:30] Launch RunIndex[0]-Module[1/2](Module1_SolverCleaner_Temporary)
+[2023-10-18 18:43:30] Launch parallel computing
+[2023-10-18 18:43:30] Commandline = ["C:\Program Files\Intel MPI 2019\x64\impiexec.exe"  -genv I_MPI_PLATFORM auto -genv I_MPI_ADJUST_ALLTOALL 2  -localonly -np 1 "C:\Moldex3D\2023\Bin\MDXSolverCleaner.exe" schedulertype=4 headnode=LHProgress mdxschedulerport=0 projectdir="H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1" module=solver runname="01" option=1 usebase64=1 projectdirbase64=SDpcZ2l0aHViXGNzLW50bnVcY3MtbnRudVxudG51LWR0dVw1LXNlbWVzdGVyLWR0dS1leGNoYW5nZVxkaWdpdGFsbWFudWZhY3R1cmluZy1pbmR1c3RyeTQuMFxtb2R1bGUtMDZcbW9sZGV4M2Qtc2ltdWxhdGlvblxEaWdpdGFsIE1hbnVmYWN0dXJpbmcgMQ== ]
+Start computing
+Clean Folder "H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Temp\MeshTMP"
+Clean Folder "H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Temp\Run01\TMP"
+Analysis done!
+[2023-10-18 18:43:31] Return value of SolverCleaner module is [0].
