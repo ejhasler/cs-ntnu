@@ -340,3 +340,28 @@
 [20231019-20:02:15] Command < Save As > 
 [20231019-20:02:15] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
 [20231019-20:02:15] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231102-14:00:54] Command < Open File > 
+[20231102-14:00:55] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231102-14:00:55] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231102-14:00:55] 17 point object(s), 9 curve object(s), 4 poly-surface object(s), 10 solid mesh object(s) have been loaded.
+[20231102-14:00:55] Command < Update MFEInfo > 
+[20231102-14:00:56] Command < Import BC > 
+[20231102-14:00:56] Command < Update Run > 
+[20231102-14:01:09] Command < Launch Progress > 
+[20231102-14:01:09] Command < Load Result > 
+[20231102-14:01:09] Loading result...
+[20231102-14:01:09] Loading result...Done.
+[20231102-14:01:23] Command < Launch Progress > 
+[20231102-14:01:27] Command < Launch Progress > 
+[20231102-14:01:27] Command < Load Result > 
+[20231102-14:01:27] Loading result...
+[20231102-14:01:28] Loading result...Done.
+[20231102-14:01:28] Command < Launch Progress > 
+[20231102-14:01:28] Command < Load Result > 
+[20231102-14:01:28] Loading result...
+[20231102-14:01:28] Loading result...Done.
+[20231102-14:01:35] Command < Report Generate > 
+[20231102-14:01:47] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231102-14:01:47] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231102-14:01:57] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231102-14:01:57] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.

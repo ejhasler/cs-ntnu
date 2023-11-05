@@ -1,0 +1,249 @@
+[20231104-17:31:02] Command < Project Mesh > 
+[20231104-17:31:04] Command < Project Import Geometry > 
+[20231104-17:31:04] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-17:31:04] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-17:31:04] Command < Import File > 
+[20231104-17:31:04] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-17:31:04] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-17:31:05] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-17:31:05] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-17:31:10] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\mesh\Cuboid78x28x3mm^3 (2).STEP  
+[20231104-17:31:11] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\mesh\Cuboid78x28x3mm^3 (2).STEP   Done.
+[20231104-17:31:11] 3 poly-surface object(s) have been loaded.
+[20231104-17:31:11] Command < Update Run > 
+[20231104-17:31:15] Command < Probe > 
+[20231104-17:34:09] Command < Attribute Wizard > 
+[20231104-17:35:09] Command < Probe > 
+[20231104-17:35:14] Command < Probe > 
+[20231104-17:35:19] Command < Attribute Wizard > 
+[20231104-17:35:24] Command < Attribute Wizard > 
+[20231104-17:35:41] Command < Attribute Wizard > 
+[20231104-17:35:59] Command < Attribute Wizard > 
+[20231104-17:36:40] Command < Add pin gate > 
+[20231104-17:37:20] Command < Add pin gate > 
+[20231104-17:37:54] Command < Change Page > 
+[20231104-17:37:54] Command < Change Page > 
+[20231104-17:43:08] Command < Modify Node Seeding > 
+[20231104-17:46:13] Command < Modify Node Seeding > 
+[20231104-17:46:44] Command < Generate BLM > 
+[20231104-17:46:51] Command < Separate polysurfaces > 
+[20231104-17:46:51] Command < Create surface mesh > 
+[20231104-17:46:52] Clean up finish
+[20231104-17:46:52] Mesh defects count: before=0, after=0
+[20231104-17:46:52] Worst quality count: before=286, after=0
+[20231104-17:46:52] Generate surface mesh
+[20231104-17:46:52] Generate surface meshdone
+[20231104-17:46:53] Command < Downsize > 
+[20231104-17:46:53] Command < Create part solid mesh > 
+[20231104-17:46:53] Part Boundary Layer Offset Ratio : 3.000
+[20231104-17:46:54] Part Boundary Layer Offset Ratio : 3.000
+[20231104-17:46:54] Generate part solid mesh
+[20231104-17:46:54] Generate part solid meshdone
+[20231104-17:46:54] Command < Create runner solid mesh > 
+[20231104-17:46:54] Create runner mesh....
+[20231104-17:46:54] Checking runner lines..... 
+[20231104-17:46:55] Create runner mesh....
+[20231104-17:46:55] Runner Boundary Layer Offset Ratio : 0.640
+[20231104-17:46:57] Rebuild solid mesh....
+[20231104-17:46:59] Generate runner solid mesh
+[20231104-17:46:59] Generate runner solid meshdone
+[20231104-17:46:59] Non-matching gate is calculating
+[20231104-17:46:59] Non-matching gate is calculatingdone
+[20231104-17:47:17] Command < Close WIZARD > 
+[20231104-17:47:17] Command < Paste BC > 
+[20231104-17:47:17] Command < Project Mesh > 
+[20231104-17:47:17] Command < Save As > 
+[20231104-17:47:17] Command < Paste BC > 
+[20231104-17:47:17] Command < Check Output Model > 
+[20231104-17:47:19] Checking cooling system ... OK.
+[20231104-17:47:19] Checking model...OK.
+[20231104-17:47:19] Command < Moldbase Wizard > 
+[20231104-17:48:58] Command < Cooling Channel Layout Wizard > 
+[20231104-17:50:35] Command < Save As > 
+[20231104-17:50:35] File "H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg" will be automatically saved to store model data.
+[20231104-17:50:35] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg  
+[20231104-17:50:35] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231104-17:50:35] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe  
+[20231104-17:50:36] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe   Done.
+[20231104-17:50:36] The following mesh file is successfully exported and ready for running Moldex3D simulation:  H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe
+[20231104-17:50:36] Command < Message > 
+[20231104-17:50:38] Command < Project Mesh > 
+[20231104-17:50:38] Command < Update MFEInfo > 
+[20231104-17:50:38] Command < Project Run Check > 
+[20231104-17:50:38] Command < Update Run > 
+[20231104-17:51:12] Command < Change Page > 
+[20231104-17:51:12] Command < Change Page > 
+[20231104-17:51:13] Command < Modify Node Seeding > 
+[20231104-17:51:41] Command < Save As > 
+[20231104-17:51:41] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231104-17:51:41] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231104-17:51:41] Command < Update Run > 
+[20231104-17:51:51] Command < Generate BLM > 
+[20231104-17:51:55] Keep attached solid mesh?  Yes
+[20231104-17:52:00] Command < Create cooling channel solid mesh > 
+[20231104-17:52:00] Checking cooling channel lines..... 
+[20231104-17:52:00] Generate cooling channel solid mesh
+[20231104-17:52:00] Generate cooling channel solid meshdone
+[20231104-17:52:18] Generate moldbase solid mesh
+[20231104-17:52:18] Generate moldbase solid meshdone
+[20231104-17:52:18] Command < Paste BC > 
+[20231104-17:52:29] Command < Close WIZARD > 
+[20231104-17:52:29] Command < Paste BC > 
+[20231104-17:52:29] Command < Project Mesh > 
+[20231104-17:52:29] Command < Save As > 
+[20231104-17:52:29] Command < Paste BC > 
+[20231104-17:52:29] Command < Check Output Model > 
+[20231104-17:52:32] Checking cooling system ... OK.
+[20231104-17:52:32] Checking model...OK.
+[20231104-17:52:32] Command < Save As > 
+[20231104-17:52:32] File "H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg" will be automatically saved to store model data.
+[20231104-17:52:32] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg  
+[20231104-17:52:32] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231104-17:52:32] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe  
+[20231104-17:52:36] Writing H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe   Done.
+[20231104-17:52:36] The following mesh file is successfully exported and ready for running Moldex3D simulation:  H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe
+[20231104-17:52:36] Command < Message > 
+[20231104-17:52:43] Command < Project Mesh > 
+[20231104-17:52:43] Command < Update MFEInfo > 
+[20231104-17:52:43] Command < Project Run Check > 
+[20231104-17:52:43] Command < Update Run > 
+[20231104-17:53:03] Command < Project Material > 
+[20231104-17:53:13] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-17:53:13] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-17:56:28] Command < Process > 
+[20231104-17:56:28] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-17:56:29] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-18:11:40] Command < Project Run Analysis > 
+[20231104-18:11:40] Command < Project Run Check > 
+[20231104-18:11:40] Command < Project Computation > 
+[20231104-18:11:44] Command < Project Run Analysis > 
+[20231104-18:11:44] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231104-18:11:44] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231104-18:12:14] Command < Project Run Analysis > 
+[20231104-18:12:33] Command < Project Run Analysis > 
+[20231104-18:12:34] Command < Project Run Analysis > 
+[20231104-18:13:28] Command < Project Run > 
+[20231104-18:13:28] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231104-18:13:28] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231104-18:19:46] Command < Import BC > 
+[20231104-18:21:32] Command < Import BC > 
+[20231104-18:21:38] Command < Import BC > 
+[20231104-18:23:29] Command < Import BC > 
+[20231104-18:23:34] Command < Import BC > 
+[20231104-18:23:34] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231104-18:23:35] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231104-18:26:29] Command < Import BC > 
+[20231104-18:26:41] Command < Import BC > 
+[20231104-18:26:59] Command < Import BC > 
+[20231104-18:27:23] Command < Import BC > 
+[20231104-18:27:42] Command < Import BC > 
+[20231104-18:28:04] Command < Import BC > 
+[20231104-18:28:17] Command < Import BC > 
+[20231104-18:28:20] Command < Import BC > 
+[20231104-18:28:43] Command < Import BC > 
+[20231104-18:28:49] Command < Import BC > 
+[20231104-18:30:21] Command < Import BC > 
+[20231104-18:30:45] Command < Import BC > 
+[20231104-18:31:12] Command < Import BC > 
+[20231104-18:31:49] Command < Import BC > 
+[20231104-18:32:30] Command < Import BC > 
+[20231104-18:32:46] Command < Import BC > 
+[20231104-18:33:03] Command < Import BC > 
+[20231104-18:33:27] Command < Import BC > 
+[20231104-18:33:33] Command < Import BC > 
+[20231104-18:33:33] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231104-18:33:33] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231104-18:36:50] Command < Import BC > 
+[20231104-18:36:55] Command < Import BC > 
+[20231104-18:39:12] Command < Import BC > 
+[20231104-18:39:19] Command < Import BC > 
+[20231104-18:41:00] Command < Import BC > 
+[20231104-18:42:50] Command < Import BC > 
+[20231104-18:42:55] Command < Import BC > 
+[20231104-18:44:11] Command < Import BC > 
+[20231104-18:44:11] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231104-18:44:11] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231104-18:44:31] Command < Import BC > 
+[20231104-18:44:36] Command < Import BC > 
+[20231104-18:44:57] Command < Import BC > 
+[20231104-18:45:18] Command < Import BC > 
+[20231104-18:45:37] Command < Import BC > 
+[20231104-18:45:57] Command < Import BC > 
+[20231104-18:46:01] Command < Import BC > 
+[20231104-18:47:35] Command < Import BC > 
+[20231104-18:48:01] Command < Import BC > 
+[20231104-18:48:32] Command < Import BC > 
+[20231104-18:49:04] Command < Import BC > 
+[20231104-18:50:10] Command < Import BC > 
+[20231104-18:55:40] Command < Import BC > 
+[20231104-18:56:07] Command < Import BC > 
+[20231104-18:56:34] Command < Import BC > 
+[20231104-18:56:40] Command < Import BC > 
+[20231104-18:59:39] Command < Import BC > 
+[20231104-18:59:43] Command < Import BC > 
+[20231104-19:01:55] Command < Import BC > 
+[20231104-19:02:08] Command < Import BC > 
+[20231104-19:03:41] Command < Import BC > 
+[20231104-19:05:21] Command < Import BC > 
+[20231104-19:05:21] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231104-19:05:21] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231104-19:05:27] Command < Import BC > 
+[20231104-19:06:30] Command < Import BC > 
+[20231104-19:06:53] Command < Import BC > 
+[20231104-19:06:55] Command < Import BC > 
+[20231104-19:07:17] Command < Import BC > 
+[20231104-19:07:38] Command < Import BC > 
+[20231104-19:07:57] Command < Import BC > 
+[20231104-19:08:25] Command < Import BC > 
+[20231104-19:08:34] Command < Import BC > 
+[20231104-19:08:43] Command < Import BC > 
+[20231104-19:10:20] Command < Import BC > 
+[20231105-01:55:12] Command < Import BC > 
+[20231105-01:55:12] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231105-01:55:12] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231105-01:55:18] Command < Import BC > 
+[20231105-01:55:59] Command < Import BC > 
+[20231105-01:56:50] Command < Import BC > 
+[20231105-01:57:44] Command < Import BC > 
+[20231105-01:58:07] Command < Import BC > 
+[20231105-01:58:36] Command < Import BC > 
+[20231105-01:59:02] Command < Import BC > 
+[20231105-01:59:04] Command < Import BC > 
+[20231105-01:59:09] Command < Import BC > 
+[20231105-02:02:33] Command < Import BC > 
+[20231105-02:02:40] Command < Import BC > 
+[20231105-02:04:59] Command < Import BC > 
+[20231105-02:05:03] Command < Import BC > 
+[20231105-02:06:48] Command < Import BC > 
+[20231105-02:06:48] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231105-02:06:49] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231105-02:06:55] Command < Import BC > 
+[20231105-02:08:35] Command < Import BC > 
+[20231105-02:08:54] Command < Import BC > 
+[20231105-02:09:45] Command < Import BC > 
+[20231105-02:10:07] Command < Import BC > 
+[20231105-02:10:34] Command < Import BC > 
+[20231105-02:10:56] Command < Import BC > 
+[20231105-02:10:59] Command < Import BC > 
+[20231105-02:11:14] Command < Import BC > 
+[20231105-02:12:04] Command < Import BC > 
+[20231105-02:12:05] Command < Import BC > 
+[20231105-02:12:08] Command < Import BC > 
+[20231105-02:13:53] Command < Import BC > 
+[20231105-02:14:20] Command < Import BC > 
+[20231105-02:14:50] Command < Import BC > 
+[20231105-02:15:28] Command < Import BC > 
+[20231105-02:15:28] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231105-02:15:28] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231105-02:16:11] Command < Import BC > 
+[20231105-02:16:40] Command < Import BC > 
+[20231105-02:16:56] Command < Import BC > 
+[20231105-02:17:23] Command < Import BC > 
+[20231105-02:17:28] Command < Import BC > 
+[20231105-02:17:29] Command < Import BC > 
+[20231105-02:19:08] All calculations in Run[1] are completed.
+[20231105-02:19:08] Command < Import BC > 
+[20231105-02:31:42] Command < Report Generate > 
+[20231105-02:31:42] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231105-02:31:42] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231105-02:33:32] Command < Report Generate > 

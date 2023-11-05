@@ -1,0 +1,12 @@
+Ver = 2.1
+#FilePath = "H:\test-moldex\Assignment-ABS-SINKRAL-F332\Assignment-ABS-SINKRAL-F332.mrm"
+Index = 0
+Priority = 0
+Schedule = NOW
+RunID = 01
+Feature = F/P/Ct/W+CLRTMP
+NodeNum = 12
+MCM = 
+DOE = 
+StopDOEWhenFail = 0
+
