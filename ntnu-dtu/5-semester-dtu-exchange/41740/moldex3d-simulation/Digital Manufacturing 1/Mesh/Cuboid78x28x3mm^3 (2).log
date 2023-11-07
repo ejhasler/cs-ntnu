@@ -1,0 +1,93 @@
+Moldex3D MFE File Version = 23004
+Moldex3D MFE File Type = Standard cool
+Created by = Moldex3D-Designer Build 2023.1
+Unit = mm
+
+Sensor Node Count: 0
+Fixed Node Count: 0
+Coolant Entrance Node Count: 8
+Coolant Exit Node Count: 8
+Measure Node Count: 0
+
+Cooling Channel Line Count: 8
+Heating Rod Line Count: 0
+
+Moldbase Count: 1
+
+Melt Entrance : Yes 
+Symmetry Boundary Condition : No 
+User Define Boundary Condition : Yes 
+
+Cavity Solid Mesh Node Count: 14475
+Cavity Solid Mesh Element Count: 28651
+Cavity Solid Mesh Volume: 13103.998100
+Cold Runner Solid Mesh Node Count: 12624
+Cold Runner Solid Mesh Element Count: 44551
+Cold Runner Solid Mesh Volume:: 6878.521929
+Hot Runner Solid Mesh Node Count: 0
+Hot Runner Solid Mesh Element Count: 0
+Hot Runner Solid Mesh Volume:: 0.000000
+
+Bad Orthognality Count: 0
+Bad Jacobian Count: 0
+
+Total Nodes of Solid Mesh: 27099
+Total Elements of Solid Mesh: 73202
+VR: 1.000000
+
+GridModified : No
+MRL : 0
+SML : 0
+Mesher Version : 0
+
+
+Output MFE file: = H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe
+Output MMP file: = H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mmp
+[File Data Checking]
+
+Allow Non-matching faces: ON
+Allow to export mesh file with bad jacobian element: OFF
+
+--Quick Checking--
+Moving surface B.C. checking: succeeded (0.000000)
+Wire Line Intersection Checking: skip (No wire curve)
+Melt Inlet checking: succeeded (0.000000)
+Part insert solid mesh exist checking: succeeded (0.000000)
+Cooling channel line mesh checking: succeeded (0.000000)
+
+Cooling type: Standard cool
+
+Nozzle zone fast cooling checking: succeeded
+
+--Point Data Checking--
+Sensor Node checking: succeeded
+
+--Matching/Non-matching model distinguishment--
+Face data checking: succeeded (0.011000)
+Face connection checking: succeeded (0.001000)
+Face-face intersection checking: succeeded (0.177000)
+Model Type: Matching model
+
+--Non-matching model checking--
+Cell intersection checking: skipped (matching model) (0.001000)
+Contact face checking: skipped (matching model)(0.001000)
+
+--Connectivity checking--
+Runner connectivity checking: succeeded (0.000000)
+Runner Meltentrance Checking: succeeded
+
+--Boundary condition checking--
+Cooling channel curve/solid mesh matching checking: succeeded
+Cooling channel inlet/outlet boundary condition checking: succeeded (0.001000)
+Conflicted boundary conditions checking: succeeded (0.002000)
+
+--Mesh quality checking--
+Bad orthogonality checking: succeeded (0.214000)
+Bad jacobian checking: succeeded (0.000000)
+Divergence checking: succeeded (0.020000)
+
+[Gate Face Area]
+1-1: 41.999mm^2
+2-1: 41.999mm^2
+
+Mesh file has been successfully exported. (3.430000)

@@ -1,0 +1,367 @@
+[20231018-17:08:52] Command < Project Import Geometry > 
+[20231018-17:08:52] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:08:53] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:08:53] Command < Import File > 
+[20231018-17:08:53] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:08:53] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:08:53] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:08:53] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:09:10] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\mesh\Cuboid78x28x3mm^3 (2).STEP  
+[20231018-17:09:10] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\mesh\Cuboid78x28x3mm^3 (2).STEP   Done.
+[20231018-17:09:10] 3 poly-surface object(s) have been loaded.
+[20231018-17:09:10] Command < Update Run > 
+[20231018-17:09:26] Command < Change Page > 
+[20231018-17:09:26] Command < Close WIZARD > 
+[20231018-17:09:50] Command < Probe > 
+[20231018-17:09:53] Command < Probe > 
+[20231018-17:10:47] Command < Change Page > 
+[20231018-17:10:47] Command < Close WIZARD > 
+[20231018-17:10:48] Command < Change Page > 
+[20231018-17:10:48] Command < Close WIZARD > 
+[20231018-17:10:52] Command < Change Page > 
+[20231018-17:10:52] Command < Close WIZARD > 
+[20231018-17:10:58] Command < Attribute Wizard > 
+[20231018-17:12:14] Command < Attribute Wizard > 
+[20231018-17:12:52] Command < Add pin gate > 
+[20231018-17:13:15] Command < Add pin gate > 
+[20231018-17:13:35] Command < Probe > 
+[20231018-17:14:00] (-0.05, 50.28, -0.14)
+[20231018-17:14:35] Command < Add pin gate > 
+[20231018-17:15:06] Command < Attribute Wizard > 
+[20231018-17:15:36] Command < Probe > 
+[20231018-17:16:01] Command < Change Page > 
+[20231018-17:16:01] Command < Change Page > 
+[20231018-17:16:04] Command < Modify Node Seeding > 
+[20231018-17:18:43] Command < Modify Node Seeding > 
+[20231018-17:19:14] Command < Generate BLM > 
+[20231018-17:19:22] Command < Separate polysurfaces > 
+[20231018-17:19:22] Command < Create surface mesh > 
+[20231018-17:19:23] Clean up finish
+[20231018-17:19:24] Mesh defects count: before=0, after=0
+[20231018-17:19:24] Worst quality count: before=286, after=0
+[20231018-17:19:24] Generate surface mesh
+[20231018-17:19:24] Generate surface meshdone
+[20231018-17:19:24] Command < Downsize > 
+[20231018-17:19:24] Part Boundary Layer Offset Ratio : 3.000
+[20231018-17:19:25] Part Boundary Layer Offset Ratio : 3.000
+[20231018-17:19:25] Generate part solid mesh
+[20231018-17:19:25] Generate part solid meshdone
+[20231018-17:19:25] Command < Create runner solid mesh > 
+[20231018-17:19:25] Create runner mesh....
+[20231018-17:19:25] Checking runner lines..... 
+[20231018-17:19:26] Create runner mesh....
+[20231018-17:19:26] Runner Boundary Layer Offset Ratio : 0.640
+[20231018-17:19:32] Rebuild solid mesh....
+[20231018-17:19:34] Generate runner solid mesh
+[20231018-17:19:34] Generate runner solid meshdone
+[20231018-17:19:34] Non-matching gate is calculating
+[20231018-17:19:34] Non-matching gate is calculatingdone
+[20231018-17:19:34] Command < Paste BC > 
+[20231018-17:19:43] Command < Close WIZARD > 
+[20231018-17:19:44] Command < Paste BC > 
+[20231018-17:19:44] Command < Project Mesh > 
+[20231018-17:19:44] Command < Save As > 
+[20231018-17:19:44] Command < Paste BC > 
+[20231018-17:19:44] Command < Check Output Model > 
+[20231018-17:19:45] Checking cooling system ... OK.
+[20231018-17:19:45] Checking model...OK.
+[20231018-17:19:45] Command < Moldbase Wizard > 
+[20231018-17:21:32] Command < Cooling Channel Layout Wizard > 
+[20231018-17:23:31] Command < Save As > 
+[20231018-17:23:31] File "H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg" will be automatically saved to store model data.
+[20231018-17:23:31] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg  
+[20231018-17:23:31] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231018-17:23:31] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe  
+[20231018-17:23:31] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe   Done.
+[20231018-17:23:32] The following mesh file is successfully exported and ready for running Moldex3D simulation:  H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe
+[20231018-17:23:32] Command < Message > 
+[20231018-17:23:38] Command < Project Mesh > 
+[20231018-17:23:38] Command < Update MFEInfo > 
+[20231018-17:23:38] Command < Project Run Check > 
+[20231018-17:23:38] Command < Update Run > 
+[20231018-17:24:06] Command < Change Page > 
+[20231018-17:24:06] Command < Close WIZARD > 
+[20231018-17:24:08] Command < Change Page > 
+[20231018-17:24:08] Command < Change Page > 
+[20231018-17:24:11] Command < Modify Node Seeding > 
+[20231018-17:24:38] Command < Save As > 
+[20231018-17:24:38] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231018-17:24:38] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231018-17:24:38] Command < Update Run > 
+[20231018-17:24:46] Command < Generate BLM > 
+[20231018-17:24:49] Keep attached solid mesh?  Yes
+[20231018-17:24:56] Command < Create cooling channel solid mesh > 
+[20231018-17:24:56] Checking cooling channel lines..... 
+[20231018-17:24:56] Generate cooling channel solid mesh
+[20231018-17:24:56] Generate cooling channel solid meshdone
+[20231018-17:24:56] Command < Create moldbase solid mesh > 
+[20231018-17:25:11] Generate moldbase solid mesh
+[20231018-17:25:11] Generate moldbase solid meshdone
+[20231018-17:25:11] Command < Paste BC > 
+[20231018-17:26:21] Command < Close WIZARD > 
+[20231018-17:26:21] Command < Paste BC > 
+[20231018-17:26:21] Command < Project Mesh > 
+[20231018-17:26:22] Command < Save As > 
+[20231018-17:26:22] Command < Paste BC > 
+[20231018-17:26:22] Command < Check Output Model > 
+[20231018-17:26:25] Checking cooling system ... OK.
+[20231018-17:26:25] Checking model...OK.
+[20231018-17:26:25] Command < Save As > 
+[20231018-17:26:25] File "H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg" will be automatically saved to store model data.
+[20231018-17:26:25] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg  
+[20231018-17:26:25] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231018-17:26:25] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe  
+[20231018-17:26:28] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe   Done.
+[20231018-17:26:28] The following mesh file is successfully exported and ready for running Moldex3D simulation:  H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Mesh\Cuboid78x28x3mm^3 (2).mfe
+[20231018-17:26:29] Command < Message > 
+[20231018-17:26:31] Command < Project Mesh > 
+[20231018-17:26:31] Command < Update MFEInfo > 
+[20231018-17:26:32] Command < Project Run Check > 
+[20231018-17:26:32] Command < Update Run > 
+[20231018-17:26:57] Command < Project Material > 
+[20231018-17:27:05] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:27:05] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:31:21] Close Material Wizard in order to proceed.
+[20231018-17:31:52] Command < Process > 
+[20231018-17:32:00] Command < Process > 
+[20231018-17:32:00] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:32:01] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:40:09] Command < Project Run Analysis > 
+[20231018-17:40:09] Command < Project Run Check > 
+[20231018-17:40:09] Command < Project Computation > 
+[20231018-17:40:24] Command < Project Run Analysis > 
+[20231018-17:40:57] Command < Project Run Analysis > 
+[20231018-17:41:11] Command < Project Run > 
+[20231018-17:41:11] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231018-17:41:12] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231018-17:44:18] Command < Import BC > 
+[20231018-17:44:48] Command < Import BC > 
+[20231018-17:44:56] Command < Import BC > 
+[20231018-17:45:33] Command < Import BC > 
+[20231018-17:46:16] Command < Import BC > 
+[20231018-17:46:40] Command < Import BC > 
+[20231018-17:47:12] Command < Import BC > 
+[20231018-17:47:25] Command < Import BC > 
+[20231018-17:47:36] Command < Import BC > 
+[20231018-17:47:49] Command < Import BC > 
+[20231018-17:47:59] Command < Import BC > 
+[20231018-17:48:06] Command < Import BC > 
+[20231018-17:48:09] Command < Import BC > 
+[20231018-17:48:16] Command < Import BC > 
+[20231018-17:48:18] Command < Import BC > 
+[20231018-17:48:30] Command < Import BC > 
+[20231018-17:48:33] Command < Import BC > 
+[20231018-17:49:57] Command < Import BC > 
+[20231018-17:50:18] Command < Import BC > 
+[20231018-17:50:43] Command < Import BC > 
+[20231018-17:50:51] Command < Project Run > 
+[20231018-17:50:58] Filling result exists.  Do you want to resume previous computing?    Yes: Resume computing.   No: Clear result.  Yes
+[20231018-17:54:22] Command < Import BC > 
+[20231018-17:55:04] Command < Import BC > 
+[20231018-17:55:15] Command < Import BC > 
+[20231018-17:55:51] Command < Import BC > 
+[20231018-17:55:55] Command < Import BC > 
+[20231018-17:56:24] Command < Import BC > 
+[20231018-17:56:31] Command < Import BC > 
+[20231018-17:56:45] Command < Import BC > 
+[20231018-17:57:01] Command < Import BC > 
+[20231018-17:57:10] Command < Import BC > 
+[20231018-17:57:13] Command < Import BC > 
+[20231018-17:57:27] Command < Import BC > 
+[20231018-17:57:35] Command < Import BC > 
+[20231018-17:57:49] Command < Import BC > 
+[20231018-17:57:55] Command < Import BC > 
+[20231018-17:57:58] Command < Import BC > 
+[20231018-17:58:57] Command < Import BC > 
+[20231018-17:59:10] Command < Import BC > 
+[20231018-17:59:27] Command < Import BC > 
+[20231018-17:59:28] Command < Import BC > 
+[20231018-17:59:44] Command < Import BC > 
+[20231018-18:00:18] Command < Import BC > 
+[20231018-18:00:41] Command < Import BC > 
+[20231018-18:00:49] Command < Import BC > 
+[20231018-18:01:10] Command < Import BC > 
+[20231018-18:01:10] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231018-18:01:10] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231018-18:01:14] Command < Import BC > 
+[20231018-18:01:16] Command < Import BC > 
+[20231018-18:02:43] Command < Import BC > 
+[20231018-18:02:54] Command < Import BC > 
+[20231018-18:03:31] Command < Import BC > 
+[20231018-18:03:34] Command < Import BC > 
+[20231018-18:04:23] Command < Import BC > 
+[20231018-18:04:46] Command < Import BC > 
+[20231018-18:05:12] Command < Import BC > 
+[20231018-18:05:16] Command < Import BC > 
+[20231018-18:05:28] Command < Import BC > 
+[20231018-18:05:46] Command < Import BC > 
+[20231018-18:06:01] Command < Import BC > 
+[20231018-18:06:08] Command < Import BC > 
+[20231018-18:06:21] Command < Import BC > 
+[20231018-18:06:22] Command < Import BC > 
+[20231018-18:06:28] Command < Import BC > 
+[20231018-18:07:17] Command < Import BC > 
+[20231018-18:07:31] Command < Import BC > 
+[20231018-18:07:54] Command < Import BC > 
+[20231018-18:08:14] Command < Import BC > 
+[20231018-18:08:44] Command < Import BC > 
+[20231018-18:08:58] Command < Import BC > 
+[20231018-18:09:14] Command < Import BC > 
+[20231018-18:09:34] Command < Import BC > 
+[20231018-18:09:41] Command < Import BC > 
+[20231018-18:09:46] Command < Import BC > 
+[20231018-18:11:11] Command < Import BC > 
+[20231018-18:11:11] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) 
+[20231018-18:11:11] Retrieving Moldex3D STUDIO license from the licensing service (press ESC to stop) Succeeded.
+[20231018-18:11:17] Command < Import BC > 
+[20231018-18:12:01] Command < Import BC > 
+[20231018-18:12:13] Command < Import BC > 
+[20231018-18:12:37] Command < Import BC > 
+[20231018-18:12:52] Command < Import BC > 
+[20231018-18:13:19] Command < Import BC > 
+[20231018-18:13:37] Command < Import BC > 
+[20231018-18:13:40] Command < Import BC > 
+[20231018-18:13:43] Command < Import BC > 
+[20231018-18:13:54] Command < Import BC > 
+[20231018-18:14:04] Command < Import BC > 
+[20231018-18:14:19] Command < Import BC > 
+[20231018-18:14:32] Command < Import BC > 
+[20231018-18:14:34] Command < Import BC > 
+[20231018-18:14:44] Command < Import BC > 
+[20231018-18:14:50] Command < Import BC > 
+[20231018-18:15:43] Command < Import BC > 
+[20231018-18:16:02] Command < Import BC > 
+[20231018-18:16:16] Command < Import BC > 
+[20231018-18:16:35] Command < Import BC > 
+[20231018-18:17:05] Command < Import BC > 
+[20231018-18:17:20] Command < Import BC > 
+[20231018-18:17:35] Command < Import BC > 
+[20231018-18:17:50] Command < Import BC > 
+[20231018-18:18:01] Command < Import BC > 
+[20231018-18:18:04] Command < Import BC > 
+[20231018-18:19:50] All calculations in Run[1] are completed.
+[20231018-18:19:50] Command < Import BC > 
+[20231019-19:50:19] Command < Open File > 
+[20231019-19:50:19] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231019-19:50:19] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231019-19:50:19] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231019-19:50:19] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231019-19:50:19] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231019-19:50:20] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231019-19:50:20] 17 point object(s), 9 curve object(s), 4 poly-surface object(s), 10 solid mesh object(s) have been loaded.
+[20231019-19:50:20] Command < Update MFEInfo > 
+[20231019-19:50:20] Command < Import BC > 
+[20231019-19:50:20] Command < Update Run > 
+[20231019-19:50:32] Command < Probe > 
+[20231019-19:50:32] (60.88, 61.35, 0.00)
+[20231019-19:50:40] Command < Probe > 
+[20231019-19:50:59] Command < Launch Progress > 
+[20231019-19:50:59] Command < Load Result > 
+[20231019-19:50:59] Loading result...
+[20231019-19:51:00] Loading result...Done.
+[20231019-19:51:01] Command < Launch Progress > 
+[20231019-19:51:01] Command < Result Advisor > 
+[20231019-19:51:02] Command < Launch Progress > 
+[20231019-19:51:03] Command < Launch Progress > 
+[20231019-19:51:03] Command < Launch Progress > 
+[20231019-19:51:04] Command < Launch Progress > 
+[20231019-19:51:05] Command < Launch Progress > 
+[20231019-19:51:05] Command < Load Result > 
+[20231019-19:51:05] Loading result...
+[20231019-19:51:05] Loading result...Done.
+[20231019-19:51:08] Command < Launch Progress > 
+[20231019-19:51:08] Command < Result Advisor > 
+[20231019-19:53:34] Command < Change Page > 
+[20231019-19:53:34] Command < Close WIZARD > 
+[20231019-19:59:38] Command < Launch Progress > 
+[20231019-19:59:38] Command < Load Result > 
+[20231019-19:59:38] Loading result...
+[20231019-19:59:38] Loading result...Done.
+[20231019-20:00:51] Command < Launch Progress > 
+[20231019-20:00:51] Command < Load Result > 
+[20231019-20:00:51] Loading result...
+[20231019-20:00:52] Loading result...Done.
+[20231019-20:01:05] Command < Launch Progress > 
+[20231019-20:01:05] Command < Load Result > 
+[20231019-20:01:05] Loading result...
+[20231019-20:01:06] Loading result...Done.
+[20231019-20:01:07] Command < Launch Progress > 
+[20231019-20:01:07] Command < Load Result > 
+[20231019-20:01:07] Loading result...
+[20231019-20:01:07] Loading result...Done.
+[20231019-20:01:08] Command < Launch Progress > 
+[20231019-20:01:08] Command < Load Result > 
+[20231019-20:01:08] Loading result...
+[20231019-20:01:08] Loading result...Done.
+[20231019-20:01:09] Command < Launch Progress > 
+[20231019-20:01:09] Command < Load Result > 
+[20231019-20:01:09] Loading result...
+[20231019-20:01:09] Loading result...Done.
+[20231019-20:01:09] Command < Launch Progress > 
+[20231019-20:01:09] Command < Load Result > 
+[20231019-20:01:09] Loading result...
+[20231019-20:01:10] Loading result...Done.
+[20231019-20:01:10] Command < Launch Progress > 
+[20231019-20:01:10] Command < Load Result > 
+[20231019-20:01:10] Loading result...
+[20231019-20:01:11] Loading result...Done.
+[20231019-20:01:12] Command < Launch Progress > 
+[20231019-20:01:12] Command < Load Result > 
+[20231019-20:01:12] Loading result...
+[20231019-20:01:12] Loading result...Done.
+[20231019-20:01:12] Command < Launch Progress > 
+[20231019-20:01:13] Command < Load Result > 
+[20231019-20:01:13] Loading result...
+[20231019-20:01:13] Loading result...Done.
+[20231019-20:01:14] Command < Launch Progress > 
+[20231019-20:01:14] Command < Load Result > 
+[20231019-20:01:14] Loading result...
+[20231019-20:01:14] Loading result...Done.
+[20231019-20:01:17] Command < Launch Progress > 
+[20231019-20:01:17] Command < Load Result > 
+[20231019-20:01:17] Loading result...
+[20231019-20:01:17] Loading result...Done.
+[20231019-20:02:03] Command < Launch Progress > 
+[20231019-20:02:03] Command < Load Result > 
+[20231019-20:02:03] Loading result...
+[20231019-20:02:03] Loading result...Done.
+[20231019-20:02:04] Command < Launch Progress > 
+[20231019-20:02:04] Command < Load Result > 
+[20231019-20:02:04] Loading result...
+[20231019-20:02:04] Loading result...Done.
+[20231019-20:02:05] Command < Launch Progress > 
+[20231019-20:02:05] Command < Load Result > 
+[20231019-20:02:05] Loading result...
+[20231019-20:02:05] Loading result...Done.
+[20231019-20:02:06] Command < Launch Progress > 
+[20231019-20:02:06] Command < Load Result > 
+[20231019-20:02:06] Loading result...
+[20231019-20:02:06] Loading result...Done.
+[20231019-20:02:15] Command < Save As > 
+[20231019-20:02:15] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231019-20:02:15] Writing H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231102-14:00:54] Command < Open File > 
+[20231102-14:00:55] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg  
+[20231102-14:00:55] Reading H:\github\cs-ntnu\cs-ntnu\ntnu-dtu\5-semester-dtu-exchange\digitalmanufacturing-industry4.0\module-06\moldex3d-simulation\Digital Manufacturing 1\Source\Cuboid78x28x3mm^3 (2).mdg   Done.
+[20231102-14:00:55] 17 point object(s), 9 curve object(s), 4 poly-surface object(s), 10 solid mesh object(s) have been loaded.
+[20231102-14:00:55] Command < Update MFEInfo > 
+[20231102-14:00:56] Command < Import BC > 
+[20231102-14:00:56] Command < Update Run > 
+[20231102-14:01:09] Command < Launch Progress > 
+[20231102-14:01:09] Command < Load Result > 
+[20231102-14:01:09] Loading result...
+[20231102-14:01:09] Loading result...Done.
+[20231102-14:01:23] Command < Launch Progress > 
+[20231102-14:01:27] Command < Launch Progress > 
+[20231102-14:01:27] Command < Load Result > 
+[20231102-14:01:27] Loading result...
+[20231102-14:01:28] Loading result...Done.
+[20231102-14:01:28] Command < Launch Progress > 
+[20231102-14:01:28] Command < Load Result > 
+[20231102-14:01:28] Loading result...
+[20231102-14:01:28] Loading result...Done.
+[20231102-14:01:35] Command < Report Generate > 
+[20231102-14:01:47] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231102-14:01:47] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
+[20231102-14:01:57] Checking Moldex3D authorization on the licensing service (press ESC to stop) 
+[20231102-14:01:57] Checking Moldex3D authorization on the licensing service (press ESC to stop) Done.
