@@ -11,5 +11,14 @@
   <a href="#license">License</a>
 </div>
 
+## Courses
+
+### 41740 Digital Manufacturing - Industry 4.0
+
+### 02110 Algorithms and Data Structures 2
+
+### 02450 Introduction to Machine Learning and Data Mining
+
+
 
 
