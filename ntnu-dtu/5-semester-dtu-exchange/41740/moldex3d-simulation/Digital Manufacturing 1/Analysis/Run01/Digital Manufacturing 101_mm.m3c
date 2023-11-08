@@ -1,0 +1,46 @@
+[PART VOLUME DATA]
+Temperature oC
+CoolTime sec
+Density g/cm3
+[MAX MIN]
+243.406677 0.000000 -1000000015047466219876688855040.000000
+40.000000 0.000000 1000000015047466219876688855040.000000
+[PART SURFACE DATA]
+HeatFlux(CycleAveraged) J/sec/cm2
+HeatLoad(PerCycle) J
+[MAX MIN]
+340.473694 196.497421
+-6.562943 -46.704895
+[MOLDBASE VOLUME DATA]
+Temperature oC
+[MAX MIN]
+82.269722
+39.720360
+[MOLDBASE SURFACE DATA]
+HeatFlux(CycleAveraged) J/sec/cm2
+HeatRemove(PerCycle) J
+CoolEfficiency %
+[MAX MIN]
+340.473694 0.869099 14.844600
+-4.796182 -185.561737 4.157926
+[COOLANT END DATA]
+Temperature oC
+HeatFlux(CycleAveraged) J/sec/cm2
+HeatRemove(PerCycle) J
+CoolEfficiency %
+[MAX MIN]
+40.142372 0.038445 0.869099 14.844507
+39.979630 -0.268696 -6.570601 8.368947
+[COOLANT ROD ELEMENT DATA]
+Temperature oC
+HeatFlux(CycleAveraged) J/sec/cm2
+HeatRemove(PerCycle) J
+CoolEfficiency %
+[MAX MIN]
+[COOLANT ROD ELEMENT NETWORKANALYSIS DATA]
+FlowRate cc/sec
+ReynoldsNumber - 
+Pressure Mpa
+Temperature oC
+[MAX MIN]
+[EOF]

@@ -1,0 +1,196 @@
+=========================================================================
+
+     Module Name = Moldex3D/Solid - Solid-Standard Cool
+     Version     = 2023 (Build 2023.2305.1820.1200) - 64Bit
+     Website     : www.moldex3d.com 
+     (C) 1995-2023 CoreTech System Co., Ltd. All rights reserved.
+
+=========================================================================
+
+
+>>>  Analysis start time: Sat Nov  4 18:13:33 2023
+
+
+
+>>>  Number of Computation Process : 12
+
+
+
+<Mesh_Information>
+
+    <General_Information>
+        Mesh File Name                            = H:\test-moldex\Assignment-ABS-SINKRAL-F332\Mesh\Cuboid78x28x3mm^3 (2).mfe
+        Mesh File Version                         = 23004
+        Mesh Type                                 = Matching
+        CreateBy                                  = Created by Moldex3D-Designer 2023.1.2305.4033
+        Total Element Number of Part              = 28626
+        Total Node Number of Part                 = 12938
+        Total Element Number of Cold Runner       = 87327
+        Total Node Number of Cold Runner          = 38312
+        Total Element Number of Hot Runner        = 0
+        Total Node Number of Hot Runner           = 0
+        Total Element Number of Part and Runners  = 115953
+        Total Element Number of Moldbase          = 329130
+        Total Node Number of Moldbase             = 69962
+        Volume of Part                            = 13.104 cc
+        Volume of Overflow                        = 0 cc
+        Volume of Compression Zone                = 0 cc
+        Volume of Cold Runner                     = 6.85392 cc
+        Volume of Hot Runner                      = 0 cc
+        Total Volume of Part and Runners          = 19.9579 cm^3
+        Total Valve Gate Control Count            = 0
+        Total Number of Inlet Faces               = 224
+        Volume of Part-Insert                     = 0 cc
+        Total Element Number of Part-Insert       = 0
+        Total Node Number of Part-Insert          = 0
+        Total Number of Overflow Region           = 0
+        Volume of Overflow Region                 = 0 cm^3
+        Total Number of Inlet Face Groups         = 1
+        ICM                                       = No
+    </General_Information>
+
+    <Part_Mesh_Geometry>
+        x-coordinate Range                        = (-7.8, 7.8) cm
+        y-coordinate Range                        = (-0.7, 5.92827) cm
+        z-coordinate Range                        = (-4.9, 4.9) cm
+    </Part_Mesh_Geometry>
+
+    <Moldbase_Geometry>
+        Size of Moldbase                          = (19.6 cm x 9.6 cm x 19.6 cm)
+        x-coordinate Range                        = (-9.8, 9.8) cm
+        y-coordinate Range                        = (-3.55, 6.05) cm
+        z-coordinate Range                        = (-9.8, 9.8) cm
+    </Moldbase_Geometry>
+</Mesh_Information>
+
+
+
+<Material_Information>
+
+    <General_Information>
+        Material File               = H:\test-moldex\Assignment-ABS-SINKRAL-F332\Material\ABS_SINKRALF332_1.mtr
+        Material File Version       = 9020
+        Polymer Name                = ABS
+        Producer Name               = Polimeri Europa
+        Polymer Trade Name          = SINKRAL F332
+        Polymer Comment             = MFI(220, 10)=14 g/10min, D=1.04 g/cm3
+        Moldex3D Bank Version       = 2023.02.Œn
+    </General_Information>
+
+    <Heat_Capacity>
+        Heat Capacity Model         = Constant Cp
+        Constant Cp - (Cp0)         = 2.15e+07 erg/(g.oC) 
+    </Heat_Capacity>
+
+    <Thermal_Conductivity>
+        Thermal Conductivity Model  = Constant K
+        Constant K - (K0)           = 17000 erg/(sec.cm.oC)
+    </Thermal_Conductivity>
+</Material_Information>
+
+
+<Process_Condition_Information>
+
+    <General_Information>
+      Process File                 = Assignment-ABS-SINKRAL-F332_Run1_1.pro
+      File Version                 = 1050
+      Analysis Type                = Injection Molding
+      File Type                    = Machine Analysis Interface
+      Setting Mode                 = Classic Mode
+      Filling Time                 = 0.498948 sec
+      Packing Time                 = 8 sec
+      Cooling Time                 = 12.6 sec
+      Open Time                    = 5 sec
+      Cycle Time                   = 26.0989 sec
+      Melt Temperature             = 250 degree C
+      Air Temperature              = 25 degree C
+      Initial Moldbase Temperature = 60 degree C
+      Eject Temperature            = 114.85 degree C
+      Number of Coolant Entrances  = 8
+      Number of Heating Rods       = 0
+      Number of Mold Metal Material= 1
+      Cooling Channel Control Type = Flow Rate
+    </General_Information>
+
+
+    <Cooling_Channel_1>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_1>
+
+    <Cooling_Channel_2>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_2>
+
+    <Cooling_Channel_3>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_3>
+
+    <Cooling_Channel_4>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_4>
+
+    <Cooling_Channel_5>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_5>
+
+    <Cooling_Channel_6>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_6>
+
+    <Cooling_Channel_7>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_7>
+
+    <Cooling_Channel_8>
+      Coolant Temperature          = 60 degree C
+      Coolant Flow Rate            = 120 cc/sec
+      Coolant Material             = Water
+    </Cooling_Channel_8>
+
+    <Mold_Metal_Material_1>
+      Moldbase Material            = P20
+      Density                      = 7.75 g/cm^3
+      Heat Capacity                = 4.62e+06 erg/g.K
+      Thermal Conductivity         = 2.9e+06 erg/sec.cm.K
+    </Mold_Metal_Material_1>
+
+</Process_Condition_Information>
+
+No m_pNDimension_L
+
+<Run Settings Information>
+    Cooling Solver                         = Standard Analysis (MFE)
+    Molding Type                           = Injection 
+    Analysis Type                          = Transient 
+    Residual Stress Computation            = OFF 
+    Advanced Hot runner module             = OFF
+    SolverAcceleration                     = ON 
+    Cooling Channel Network Analysis       = OFF 
+    3D Solid Cooling Channel Analysis      = OFF
+    AutoSetCoolTime                        = OFF 
+    Consider previous shot                 = OFF 
+    Thermal Correction From Flow/Pack      = OFF 
+    Crystallization Computation            = OFF 
+</Run Settings Information>
+
+
+<Calculation_History>
+myid_ = 6, NProc=12
+CMDX3DProcessSimulation::Initilize() OK
+CMDX3DProcessSimulation::Iterate()
+Cycle 1 : 
+CMDX3DProcessSimulation::Cycle_Initilize()
