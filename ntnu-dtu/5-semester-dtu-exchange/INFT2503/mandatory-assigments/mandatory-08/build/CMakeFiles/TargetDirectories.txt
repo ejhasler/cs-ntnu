@@ -1,0 +1,4 @@
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build/CMakeFiles/exercise-01.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build/CMakeFiles/exercise-02.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build/CMakeFiles/edit_cache.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build/CMakeFiles/rebuild_cache.dir

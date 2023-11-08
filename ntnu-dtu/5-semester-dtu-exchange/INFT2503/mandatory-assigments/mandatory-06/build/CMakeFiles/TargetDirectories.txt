@@ -1,0 +1,4 @@
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build/CMakeFiles/chess.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build/CMakeFiles/echo_server.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build/CMakeFiles/edit_cache.dir
+H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build/CMakeFiles/rebuild_cache.dir

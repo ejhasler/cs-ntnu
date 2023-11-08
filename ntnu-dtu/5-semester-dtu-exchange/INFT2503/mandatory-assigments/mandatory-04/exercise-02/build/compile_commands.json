@@ -1,0 +1,8 @@
+[
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-04/exercise-02/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe  -IC:/msys64/mingw64/include/gtkmm-3.0 -IC:/msys64/mingw64/lib/gtkmm-3.0/include -IC:/msys64/mingw64/include/gtk-3.0 -IC:/msys64/mingw64/include/cairo -IC:/msys64/mingw64/include/sigc++-2.0 -IC:/msys64/mingw64/lib/sigc++-2.0/include -IC:/msys64/mingw64/include/pango-1.0 -IC:/msys64/mingw64/include/atkmm-1.6 -IC:/msys64/mingw64/lib/atkmm-1.6/include -IC:/msys64/mingw64/include/glibmm-2.4 -IC:/msys64/mingw64/lib/glibmm-2.4/include -IC:/msys64/mingw64/include/gdkmm-3.0 -IC:/msys64/mingw64/lib/gdkmm-3.0/include -IC:/msys64/mingw64/include/giomm-2.4 -IC:/msys64/mingw64/lib/giomm-2.4/include -IC:/msys64/mingw64/include/cairomm-1.0 -IC:/msys64/mingw64/lib/cairomm-1.0/include -IC:/msys64/mingw64/include/pangomm-1.4 -IC:/msys64/mingw64/lib/pangomm-1.4/include -IC:/msys64/mingw64/include/gdk-pixbuf-2.0 -IC:/msys64/mingw64/include/harfbuzz -IC:/msys64/mingw64/include/glib-2.0 -IC:/msys64/mingw64/lib/glib-2.0/include -IC:/msys64/mingw64/include/freetype2 -IC:/msys64/mingw64/include/atk-1.0 -IC:/msys64/mingw64/include/webp -IC:/msys64/mingw64/include/libpng16 -IC:/msys64/mingw64/include/pixman-1 -IC:/msys64/mingw64/include/fribidi -std=gnu++14 -Wall -Wextra -DLIBDEFLATE_DLL -o CMakeFiles/main.dir/main.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-04/exercise-02/main.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-04/exercise-02/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

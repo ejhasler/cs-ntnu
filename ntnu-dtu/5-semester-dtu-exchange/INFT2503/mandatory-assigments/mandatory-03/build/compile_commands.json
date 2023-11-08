@@ -1,0 +1,44 @@
+[
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise1.dir/exercise-1.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-1.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-1.cpp",
+  "output": "CMakeFiles/exercise1.dir/exercise-1.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise1.dir/Circle.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Circle.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Circle.cpp",
+  "output": "CMakeFiles/exercise1.dir/Circle.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise2.dir/exercise-2.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-2.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-2.cpp",
+  "output": "CMakeFiles/exercise2.dir/exercise-2.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise2.dir/Circle.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Circle.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Circle.cpp",
+  "output": "CMakeFiles/exercise2.dir/Circle.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise3.dir/exercise-3.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-3.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-3.cpp",
+  "output": "CMakeFiles/exercise3.dir/exercise-3.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise3.dir/Commodity.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Commodity.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/Commodity.cpp",
+  "output": "CMakeFiles/exercise3.dir/Commodity.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise4.dir/exercise-4.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-4.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/programming-c++bachelor-ntnu/assignments/mandatory-03/exercise-4.cpp",
+  "output": "CMakeFiles/exercise4.dir/exercise-4.cpp.obj"
+}
+]

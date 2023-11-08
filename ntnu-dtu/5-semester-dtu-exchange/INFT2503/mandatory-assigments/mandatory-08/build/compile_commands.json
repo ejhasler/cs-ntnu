@@ -1,0 +1,26 @@
+[
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise-01.dir/exercise-01/main.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-01/main.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-01/main.cpp",
+  "output": "CMakeFiles/exercise-01.dir/exercise-01/main.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise-01.dir/exercise-01/equal.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-01/equal.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-01/equal.cpp",
+  "output": "CMakeFiles/exercise-01.dir/exercise-01/equal.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise-02.dir/exercise-02/pair.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-02/pair.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-02/pair.cpp",
+  "output": "CMakeFiles/exercise-02.dir/exercise-02/pair.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/exercise-02.dir/exercise-02/main.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-02/main.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-08/exercise-02/main.cpp",
+  "output": "CMakeFiles/exercise-02.dir/exercise-02/main.cpp.obj"
+}
+]

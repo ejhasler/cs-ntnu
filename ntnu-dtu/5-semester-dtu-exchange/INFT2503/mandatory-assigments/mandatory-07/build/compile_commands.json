@@ -1,0 +1,26 @@
+[
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/fraction.dir/fraction/main.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/fraction/main.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/fraction/main.cpp",
+  "output": "CMakeFiles/fraction.dir/fraction/main.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/fraction.dir/fraction/fraction.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/fraction/fraction.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/fraction/fraction.cpp",
+  "output": "CMakeFiles/fraction.dir/fraction/fraction.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/set.dir/set/set.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/set/set.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/set/set.cpp",
+  "output": "CMakeFiles/set.dir/set/set.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -Wall -Wextra -o CMakeFiles/set.dir/set/main_set.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/set/main_set.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-07/set/main_set.cpp",
+  "output": "CMakeFiles/set.dir/set/main_set.cpp.obj"
+}
+]

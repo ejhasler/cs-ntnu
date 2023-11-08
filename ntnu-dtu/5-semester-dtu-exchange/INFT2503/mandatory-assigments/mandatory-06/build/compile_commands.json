@@ -1,0 +1,14 @@
+[
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe    -std=c++1y -pthread -Wall -Wextra -o CMakeFiles/chess.dir/chess.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/chess.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/chess.cpp",
+  "output": "CMakeFiles/chess.dir/chess.cpp.obj"
+},
+{
+  "directory": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/build",
+  "command": "/C/msys64/mingw64/bin/c++.exe -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB   -std=c++1y -pthread -Wall -Wextra -o CMakeFiles/echo_server.dir/echo_server.cpp.obj -c /H/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/echo_server.cpp",
+  "file": "H:/github/cs-ntnu/ntnu-dtu/5-semester-dtu-exchange/INFT2503/mandatory-assigments/mandatory-06/echo_server.cpp",
+  "output": "CMakeFiles/echo_server.dir/echo_server.cpp.obj"
+}
+]
