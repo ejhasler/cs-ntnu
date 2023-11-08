@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="left" width="300" src="https://github.com/ejhasler/cs-ntnu/blob/main/images/dtu-logo.png" />
+  <img align="left" width="300" src="https://github.com/ejhasler/cs-ntnu/blob/main/images/dtulogo.webp" />
   <h1>DTU Exhange Semester</h1>
 </div>
 
