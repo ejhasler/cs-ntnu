@@ -7,7 +7,8 @@
 <p align="center">Folder for Computer Science courses at DTU containing assignments and relevant work.</p>
 
 <div align="center">
-  <a href="https://github.com/ejhasler/cs-ntnu/tree/main/ntnu-dtu">Go to DTU Courses </a>
+  <a href="https://github.com/ejhasler/cs-ntnu/tree/main/ntnu-dtu">Go to DTU Courses </a> •
+  <a href="#NTNU Courses - 5 Semester">NTNU Courses</a>
 </div>
 
 ## DTU Courses - 5 Semester
