@@ -61,8 +61,9 @@ def findMaxProfit(arr, n):
     return findMaxProfitRec(arr, n)
  
 # Driver code
-values = [ (1, 3, 5), (2, 5, 6), 
-           (4, 6, 5), (6, 7, 4), (5, 8, 11), (7, 9, 2) ]
+values = [ (1, 7, 4), (10, 12, 2), 
+           (2, 5, 3), (8, 11, 4), (12, 13, 3), (3, 9, 5)
+            , (3, 4, 3), (4, 6, 3), (5, 8, 2), (4, 13, 6) ]
 arr = []
 for i in values:
     arr.append(Job(i[0], i[1], i[2]))
